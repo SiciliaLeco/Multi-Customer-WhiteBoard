@@ -1,0 +1,2 @@
+运行Connect包里的CanvasServer启动服务器，运行OpenGLApp就是一个用户登陆。
+
