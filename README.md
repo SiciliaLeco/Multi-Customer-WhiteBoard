@@ -1,6 +1,5 @@
 运行Connect包里的CanvasServer启动服务器，运行OpenGLApp就是一个用户登陆。
 
-## Proj 3 多线程白板GUI界面
 
 #### 1. 实验要求
 
